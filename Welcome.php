@@ -1,5 +1,7 @@
 <?php
 // hai changes by siva
+
+//hai git changes mathan
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
